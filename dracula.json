@@ -7,7 +7,7 @@
   },
   "block_quote": {
     "color": "#f1fa8c",
-    "italic": true,
+    "indent_token": "│ ",
     "indent": 2
   },
   "paragraph": {},
