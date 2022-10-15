@@ -21,13 +21,22 @@
     "bold": true
   },
   "h1": {
-    "prefix": "# "
+    "prefix": " ",
+    "suffix": " ",
+    "color": "228",
+    "background_color": "63",
+    "bold": true
   },
   "h2": {
-    "prefix": "## "
+    "prefix": " ",
+    "color": "15",
+    "background_color": "57"
   },
   "h3": {
-    "prefix": "### "
+    "prefix": "### ",
+    "color": "15",
+    "background_color": "57"
+
   },
   "h4": {
     "prefix": "#### "
