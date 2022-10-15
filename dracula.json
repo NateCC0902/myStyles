@@ -27,19 +27,24 @@
     "bold": true
   },
   "h2": {
-    "prefix": " "
+    "prefix": " ",
+    "suffix": " "
   },
   "h3": {
-    "prefix": " "
+    "prefix": " ",
+    "suffix": " "
   },
   "h4": {
-    "prefix": " "
+    "prefix": " ",
+    "suffix": " "
   },
   "h5": {
-    "prefix": " "
+    "prefix": " ",
+    "suffix": " "
   },
   "h6": {
-    "prefix": " "
+    "prefix": " ",
+    "suffix": " "
   },
   "text": {},
   "strikethrough": {
