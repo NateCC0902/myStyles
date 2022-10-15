@@ -17,7 +17,8 @@
   },
   "heading": {
     "block_suffix": "\n",
-    "color": "#bd93f9",
+    "color": "15",
+    "background_color": "57",
     "bold": true
   },
   "h1": {
@@ -29,23 +30,19 @@
   },
   "h2": {
     "prefix": " ",
-    "color": "15",
     "background_color": "57"
   },
   "h3": {
-    "prefix": "### ",
-    "color": "15",
-    "background_color": "57"
-
+    "prefix": " "
   },
   "h4": {
-    "prefix": "#### "
+    "prefix": " "
   },
   "h5": {
-    "prefix": "##### "
+    "prefix": " "
   },
   "h6": {
-    "prefix": "###### "
+    "prefix": " "
   },
   "text": {},
   "strikethrough": {
