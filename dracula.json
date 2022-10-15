@@ -27,24 +27,20 @@
     "bold": true
   },
   "h2": {
-    "prefix": " ",
-    "suffix": " "
+    "prefix": "▌ "
   },
   "h3": {
-    "prefix": " ",
-    "suffix": " "
+    "prefix": "┃ "
   },
   "h4": {
-    "prefix": " ",
-    "suffix": " "
+    "prefix": "│ "
   },
   "h5": {
-    "prefix": " ",
-    "suffix": " "
+    "prefix": "┆ "
   },
   "h6": {
-    "prefix": " ",
-    "suffix": " "
+    "prefix": "┊ ",
+    "bold": false
   },
   "text": {},
   "strikethrough": {
