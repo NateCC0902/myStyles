@@ -24,30 +24,22 @@
   "h1": {
     "prefix": " ",
     "suffix": " ",
-    "margin": 2,
-    "color": "228",
-    "background_color": "63",
     "bold": true
   },
   "h2": {
-    "prefix": " ",
-    "margin": 4
+    "prefix": " "
   },
   "h3": {
-    "prefix": " ",
-    "margin": 6
+    "prefix": " "
   },
   "h4": {
-    "prefix": " ",
-    "margin": 7
+    "prefix": " "
   },
   "h5": {
-    "prefix": " ",
-    "margin": 8
+    "prefix": " "
   },
   "h6": {
-    "prefix": " ",
-    "margin": 8
+    "prefix": " "
   },
   "text": {},
   "strikethrough": {
